@@ -1,7 +1,7 @@
 package clases;
 
 public class Main {
-    public static void main() {
+    public static void main(String[] args) {
         Persona persona = new Persona();
         persona.setEdad(25);
         persona.setNombre("Marcelo");
